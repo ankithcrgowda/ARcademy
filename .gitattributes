@@ -8,3 +8,9 @@ Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 Library/Bee/artifacts/Android/d8kzr/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
 Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
 Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.aar filter=lfs diff=lfs merge=lfs -text
