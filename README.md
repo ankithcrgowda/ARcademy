@@ -14,6 +14,11 @@ ARcademy is a project aimed at creating an immersive augmented reality (AR) lear
 - **Multi-platform Support**: Compatible with various AR-capable devices.
 - **Open Source**: Contributions and feedback are welcome from the community.
 
+## Technologies Used
+- Unity 2022.3.20f1
+- C# (Unity C#)
+- Vuforia Engine
+
 ## Installation
 
 To run ARcademy locally or contribute to its development, follow these steps:
@@ -39,7 +44,7 @@ To run ARcademy locally or contribute to its development, follow these steps:
 
    Follow instructions specific to your development environment to build and run ARcademy.
 
-# License
+## License
 This project is licensed under the MIT License.
 
 ## Show your Support🙏🏻
