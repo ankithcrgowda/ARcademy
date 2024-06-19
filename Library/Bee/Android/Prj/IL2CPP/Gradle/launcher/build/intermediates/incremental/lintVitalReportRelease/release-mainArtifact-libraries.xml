@@ -1,0 +1,49 @@
+<libraries>
+  <library
+      name="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\311f4d38a9d2401d282e2b6aff9c0a7d\transformed\out\jars\classes.jar;D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\311f4d38a9d2401d282e2b6aff9c0a7d\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\311f4d38a9d2401d282e2b6aff9c0a7d\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="com.google.ar:core:1.36.0@aar"
+      jars="C:\Users\IdeaPad\.gradle\caches\transforms-3\eb2f5ff232dcdee13e4ee7dc3adcec46\transformed\core-1.36.0\jars\classes.jar"
+      resolved="com.google.ar:core:1.36.0"
+      folder="C:\Users\IdeaPad\.gradle\caches\transforms-3\eb2f5ff232dcdee13e4ee7dc3adcec46\transformed\core-1.36.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":VuforiaEngine:@aar"
+      jars="C:\Users\IdeaPad\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine\jars\classes.jar;C:\Users\IdeaPad\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine\jars\libs\VuforiaEngine.jar;C:\Users\IdeaPad\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine\jars\libs\VuforiaUnityPlayer.jar"
+      resolved=":VuforiaEngine:"
+      folder="C:\Users\IdeaPad\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.annotation:annotation:1.3.0@jar"
+      jars="C:\Users\IdeaPad\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.3.0\21f49f5f9b85fc49de712539f79123119740595\annotation-1.3.0.jar"
+      resolved="androidx.annotation:annotation:1.3.0"/>
+</libraries>

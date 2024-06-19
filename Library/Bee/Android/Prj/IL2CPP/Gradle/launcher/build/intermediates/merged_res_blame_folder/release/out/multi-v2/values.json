@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Unity Projects\\ARcademy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\IdeaPad\\.gradle\\caches\\transforms-3\\eb2f5ff232dcdee13e4ee7dc3adcec46\\transformed\\core-1.36.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "424,475,530,656,782",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "470,525,651,777,865"
+                    }
+                },
+                {
+                    "source": "D:\\Unity Projects\\ARcademy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,169,226,282,331,377,424,524,662",
+                        "endLines": "2,3,4,5,6,7,8,10,13,17",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "118,164,221,277,326,372,419,519,657,884"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,169,226,282,331,377,1064,1164,1302",
+                        "endLines": "2,3,4,5,6,7,8,18,21,25",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "118,164,221,277,326,372,419,1159,1297,1524"
+                    }
+                },
+                {
+                    "source": "D:\\Unity Projects\\ARcademy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,100",
+                        "endColumns": "43,65",
+                        "endOffsets": "96,163"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "870,916",
+                        "endColumns": "45,67",
+                        "endOffsets": "911,979"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\IdeaPad\\.gradle\\caches\\transforms-3\\1197373c69955c23c987919b13f35dd9\\transformed\\VuforiaEngine\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "984",
+                        "endColumns": "79",
+                        "endOffsets": "1059"
+                    }
+                }
+            ]
+        }
+    ]
+}

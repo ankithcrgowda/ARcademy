@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="skeleton" size="1000.000000 816.188843" />
+    <ImageTarget name="heart" size="1000.000000 721.932129" />
+    <ImageTarget name="brain" size="1000.000000 605.600952" />
+    <ImageTarget name="kidney" size="1000.000000 750.291687" />
+    <ImageTarget name="sun" size="2000.000000 2000.000000" />
+    <ImageTarget name="neptune" size="1000.000000 1009.416199" />
+    <ImageTarget name="uranus" size="1000.000000 994.392517" />
+    <ImageTarget name="saturn" size="1000.000000 441.093323" />
+    <ImageTarget name="jupiter" size="1000.000000 1000.000000" />
+    <ImageTarget name="mars" size="1000.000000 1000.000000" />
+    <ImageTarget name="earth" size="1000.000000 1000.000000" />
+    <ImageTarget name="mercury" size="1000.000000 1000.000000" />
+    <ImageTarget name="venus" size="1000.000000 1000.000000" />
+  </Tracking>
+</QCARConfig>

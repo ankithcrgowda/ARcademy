@@ -1,0 +1,22 @@
+<dependencies>
+  <compile
+      roots="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,com.google.ar:core:1.36.0@aar,:VuforiaEngine:@aar,androidx.annotation:annotation:1.3.0@jar">
+    <dependency
+        name="D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\Unity Projects\ARcademy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name="com.google.ar:core:1.36.0@aar"/>
+    <dependency
+        name=":VuforiaEngine:@aar"/>
+    <dependency
+        name="androidx.annotation:annotation:1.3.0@jar"/>
+  </package>
+</dependencies>

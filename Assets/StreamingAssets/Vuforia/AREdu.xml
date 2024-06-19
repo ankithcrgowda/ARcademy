@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="htarget" size="6.000000 8.384000" />
+    <ImageTarget name="skeleton" size="6.000000 12.680769" />
+    <ImageTarget name="braintarget" size="6.000000 7.241447" />
+    <ImageTarget name="kidneytarget" size="6.000000 9.144518" />
+    <ImageTarget name="sun" size="6.000000 4.410448" />
+    <ImageTarget name="7" size="6.000000 4.181974" />
+    <ImageTarget name="8" size="6.000000 4.082192" />
+    <ImageTarget name="6" size="6.000000 4.205480" />
+    <ImageTarget name="3" size="6.000000 6.000000" />
+    <ImageTarget name="5" size="6.000000 6.000000" />
+    <ImageTarget name="4" size="6.000000 4.146667" />
+    <ImageTarget name="generated_1" size="6.000000 4.500000" />
+    <ImageTarget name="2" size="6.000000 6.000000" />
+  </Tracking>
+</QCARConfig>

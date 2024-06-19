@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Unity Projects\\ARcademy\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-te\\values-te.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\IdeaPad\\.gradle\\caches\\transforms-3\\eb2f5ff232dcdee13e4ee7dc3adcec46\\transformed\\core-1.36.0\\res\\values-te\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,243,298,405,519",
+                        "endColumns": "52,54,106,113,91",
+                        "endOffsets": "242,297,404,518,610"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,171,282,400",
+                        "endColumns": "56,58,110,117,95",
+                        "endOffsets": "107,166,277,395,491"
+                    }
+                }
+            ]
+        }
+    ]
+}
