@@ -1,7 +1,20 @@
 # ARcademy
 ARcademy - An Augmented Reality based Encyclopaedia
 
+<img src="Snaps/Preview1.jpg" width="50%" >
+
 ARcademy is a project aimed at creating an immersive augmented reality (AR) learning experience. It leverages cutting-edge technologies to enhance education through interactive AR simulations and visualizations.
+
+## Preview
+
+<img src="Snaps/Preview2.png" width="50%" >
+<img src="Snaps/Preview3.png" width="50%" >
+<img src="Snaps/Preview4.png" width="50%" >
+<img src="Snaps/Preview5.png" width="50%" >
+<img src="Snaps/Preview6.png" width="50%" >
+
+
+## Download Link
 
 **Download the APK and target images**:
    [Download Here](https://drive.google.com/drive/folders/116VaV4-h73EPZVZWvmhcA5zXjQPrEssB).
